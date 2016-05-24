@@ -1,1 +1,1 @@
-FROM daocloud.io/library/nginx
+FROM daocloud.io/library/nginx:latest
